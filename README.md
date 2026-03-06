@@ -1,8 +1,11 @@
-In this assignment,I worked on the "blogs_categories.csv" dataset, which contains blog posts categorized into various themes. My task will be to build a text classification model using the Naive Bayes algorithm to categorize the blog posts accurately. Furthermore, I will perform sentiment analysis to understand the general sentiment (positive, negative, neutral) expressed in these posts. This assignment will enhance our understanding of text classification, sentiment analysis, and the practical application of the Naive Bayes algorithm in Natural Language Processing (NLP).
-Dataset
+In this assignment, I worked on the "blogs_categories.csv" dataset, which contains blog posts categorized into various themes. My task will be to build a text classification model using the Naive Bayes algorithm to categorize the blog posts accurately. Furthermore, I will perform sentiment analysis to understand the general sentiment (positive, negative, neutral) expressed in these posts. This assignment will enhance our understanding of text classification, sentiment analysis, and the practical application of the Naive Bayes algorithm in Natural Language Processing (NLP).
+
+# Dataset
+
 The provided dataset, "blogs_categories.csv", consists of blog posts along with their associated categories. Each row represents a blog post with the following columns:
 •	Text: The content of the blog post. Column name: Data
 •	Category: The category to which the blog post belongs. Column name: Labels
+
 Tasks
 1. Data Exploration and Preprocessing
 •	Load the "blogs_categories.csv" dataset and perform an exploratory data analysis to understand its structure and content.
